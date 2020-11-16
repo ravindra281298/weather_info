@@ -1,9 +1,6 @@
 # weather_info
 
 
-# PHP_CRUD_with_AUTH
-
-
 <h3>Project Description:</h3></br>
 Created a Project to display the temperature of various cities on particular dates.</br>
 
